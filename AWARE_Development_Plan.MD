@@ -108,7 +108,7 @@ It’s only a dream without a plan. Working back from your long term goal what d
 
 
 
-## <span style="text-decoration:underline;">Tasks/Objectives</span>
+## Tasks/Objectives
 
 What are the tasks/objectives that I need to perform in order to achieve my short, medium and long term goals? 
 
@@ -118,7 +118,7 @@ What are the tasks/objectives that I need to perform in order to achieve my shor
 After I have completed a task/objective what was good about that task/objective? Did I achieve the experience, practice, skill I expected to? What would I do differently next time? Would I choose a different goal/intended outcome/focus on something different? 
 
 
-### <span style="text-decoration:underline;">**In Progress**<span>  
+### **In Progress**  
 
 **Description**: Tasks/Objectives that are currently underway
 
