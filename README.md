@@ -7,6 +7,3 @@ Twitter [@ShopifyEng](https://twitter.com/shopifyeng)
 
 [Open Source at Shopify](http://shopify.github.io/)
 
-
-## Culture
-An empowering culture is the product of great people, strong values, and diversity.
